@@ -1,0 +1,11 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Tugas2indah\bin\Debug\Tugas2indah.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Tugas2indah\Tugas2indah\bin\Debug\Tugas2indah.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Tugas2indah\Tugas2indah\bin\Debug\Tugas2indah.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Tugas2indah\Tugas2indah\bin\Debug\Tugas2indah.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Tugas2indah\Tugas2indah\bin\Debug\Tugas2indah.xml
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Tugas2indah\Tugas2indah\obj\Debug\Tugas2indah.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Tugas2indah\Tugas2indah\obj\Debug\Tugas2indah.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Tugas2indah\Tugas2indah\obj\Debug\Tugas2indah.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Tugas2indah\Tugas2indah\obj\Debug\Tugas2indah.xml
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Tugas2indah\Tugas2indah\obj\Debug\Tugas2indah.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Tugas2indah\Tugas2indah\obj\Debug\Tugas2indah.Form.resources
